@@ -2,6 +2,8 @@
 
 Inferact is a tag-oriented metadata aggregator and organizer in terminal form.
 
+**Platform:** Windows for now. No Unix versions at the moment.
+
 # Requirements
 
 blockhash -- https://github.com/commonsmachinery/blockhash-python
