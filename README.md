@@ -22,6 +22,8 @@ nltk *(optional self-install on command)* -- https://pypi.python.org/pypi/nltk
 
 Pillow -- http://python-pillow.org
 
+Send2Trash -- http://github.com/hsoft/send2trash
+
 win-unicode-console -- https://github.com/Drekin/win-unicode-console
 
 xerox -- http://github.com/kennethreitz/xerox
