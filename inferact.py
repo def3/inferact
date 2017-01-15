@@ -1749,7 +1749,7 @@ if __name__ == '__main__':
 
     set_console_title(nfr_title)
 
-    config_filepath = 'nfr.ini'
+    config_filepath = os.path.join(SCRIPT_DIR,'nfr.ini')
     first_run = not os.path.isfile(config_filepath)
 
     #---------------------------------------------------------------------------
