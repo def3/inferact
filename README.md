@@ -2,7 +2,7 @@
 
 Inferact is a tag-oriented metadata aggregator and organizer in terminal form.
 
-**Platform:** Windows for now. No Unix versions at the moment.
+**Platform:** Windows for now (https://sourceforge.net/projects/inferact/files/). No Unix versions at the moment.
 
 # Requirements
 

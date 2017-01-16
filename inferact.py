@@ -1,34 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-#from __future__ import print_function # printing in color without newline
 __nfr__     = 'inferact'
 __version__ = '0.4.9.15 prealpha'
 __website__ = 'https://sourceforge.net/projects/inferact/'
-__about__   = __nfr__.capitalize()+' (or nfer for short) is an unproblematic tagging utility.' # inferactal / inferact / nfer / nfr
-
-# cleanup & segmentation progress at line 677
+__about__   = __nfr__.capitalize()+' (or nfer for short) is an unproblematic tagging utility.'
 
 DEBUG_PERFORMANCE = False
-
-# DEPENDENCES:
-# -------------
-# colorama==0.3.2
-# Send2Trash==1.3.0
-# buzhug==1.8 (https://pypi.python.org/pypi/buzhug)
-# Pillow==2.6.1
-# iniparse==0.4
-# pyreadline
-# xerox==0.3.1 (+ pywin32)
-# maya
-# blockhash
-
-# OPTIONAL DEPENDENCES:
-# ----------------------
-# nltk==3.0.0
-# mp3hash==0.1
-# win-unicode-console==0.4
-# whatype==0.1
 
 #-------------------------------------------------------------------------------
 # IMPORTS, INITS, GLOBALS
